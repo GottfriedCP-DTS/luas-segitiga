@@ -2,4 +2,4 @@ Program JS penghitung luas segitiga berdasarkan alas dan tinggi. UI berupa laman
 
 ### Screenshot
 
-![ss]()
+![ss](https://raw.githubusercontent.com/GottfriedCP-DTS/luas-segitiga/master/i3.PNG)
